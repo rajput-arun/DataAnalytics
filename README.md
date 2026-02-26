@@ -1,77 +1,71 @@
 # DataAnalytics
 
-A curated collection of data analytics projects demonstrating hands‑on skills across Excel, Power BI, Python, SQL, and QlikView.  
-This repository serves as a practical portfolio showcasing end‑to‑end analytical thinking, data modelling, dashboard development, and problem‑solving across multiple tools and technologies.
+A curated collection of hands‑on data analytics projects built using Excel, Google Sheets, Power BI, and Python.  
+This repository showcases practical problem‑solving, data modelling, dashboard development, automation, and analytical thinking across multiple tools used in modern data roles.
 
 ---
 
 ## 📁 Repository Structure
 
 ### **Excel/**
-Contains advanced Excel models, dashboards, and analytical workbooks.  
+Contains Excel-based analytical models, dashboards, and data processing workflows.  
 Typical content includes:
-- KPI dashboards  
-- Forecasting models  
-- Pivot‑based analysis  
+- KPI dashboards and business reports  
+- Forecasting and trend analysis  
 - Power Query transformations  
-- Data cleaning and automation workflows  
+- PivotTables and data modelling  
+- Data cleaning and automation using formulas  
+
+---
+
+### **Google Sheets/**
+Projects demonstrating cloud‑based analytics, collaboration, and automation using Google Sheets.  
+Examples may include:
+- Interactive dashboards  
+- AppScript‑based automation  
+- Data cleaning and transformation  
+- Shared reporting templates  
 
 ---
 
 ### **Power BI/**
 Interactive dashboards and data models built using Power BI Desktop.  
-Examples may include:
-- DAX‑driven metrics  
-- Data modelling (star schema, relationships)  
-- Visual storytelling dashboards  
-- Business performance insights  
+Common themes:
+- DAX measures and calculated columns  
+- Star schema data modelling  
 - Power Query ETL pipelines  
+- Business insights and visual storytelling  
+- Performance optimization and report design  
 
 ---
 
 ### **Python/**
-Python scripts and notebooks for data analysis, automation, and exploration.  
-Common themes:
-- pandas‑based data wrangling  
+Python scripts and notebooks for data analysis, automation, and visualization.  
+Typical work includes:
+- Data wrangling with pandas  
 - Exploratory data analysis (EDA)  
-- Visualizations (matplotlib, seaborn, plotly)  
+- Visualizations using matplotlib, seaborn, or plotly  
 - Automation scripts  
-- Basic machine learning workflows  
-
----
-
-### **QlikView/**
-QlikView dashboards and data models demonstrating associative analytics and interactive reporting.
-
----
-
-### **SQL/**
-SQL scripts for querying, transforming, and analysing structured data.  
-Includes:
-- Joins, aggregations, window functions  
-- Data cleaning queries  
-- Analytical SQL patterns  
-- Stored procedures or views (if applicable)  
+- Basic machine learning workflows (if applicable)  
 
 ---
 
 ## 🎯 Purpose of This Repository
 
 This repository is designed to:
-- Showcase practical analytics capabilities  
-- Demonstrate proficiency across multiple tools  
-- Provide a structured portfolio for data analytics and data science roles  
-- Highlight real‑world problem‑solving and business insight generation  
+- Demonstrate practical analytics skills across multiple tools  
+- Showcase real‑world problem‑solving and data storytelling  
+- Serve as a professional portfolio for data analytics roles  
+- Provide reusable templates and examples for future projects  
 
 ---
 
 ## 🛠️ Tools & Technologies
 
 - **Excel** (Power Query, PivotTables, formulas, automation)  
+- **Google Sheets** (AppScript, collaborative analytics)  
 - **Power BI Desktop** (DAX, modelling, ETL)  
 - **Python** (pandas, numpy, matplotlib, seaborn)  
-- **SQL** (MySQL, PostgreSQL, SQL Server)  
-- **QlikView**  
 - **Git & GitHub** for version control  
 
 ---
@@ -86,10 +80,16 @@ Study materials and reference documents are intentionally kept **outside** this 
 
 - Add detailed project write‑ups  
 - Include sample datasets (where allowed)  
-- Add Jupyter notebooks for Python workflows  
 - Expand Power BI and Excel case studies  
 - Add end‑to‑end analytics case projects  
+- Add Jupyter notebooks for Python workflows  
 
 ---
 
-If you’d like, I can refine this README further once you tell me what specific projects or dashboards you want highlighted.
+If you want, I can also help you create:
+
+- A **GitHub profile README** (appears on your profile homepage)  
+- A **project‑specific README** for each folder  
+- A **portfolio roadmap** to guide what to add next  
+
+Just tell me how polished you want your GitHub presence to look.
